@@ -1,2 +1,2 @@
-# https//:xritsi.github.io
+# https://xritsi.github.io
 hmw0
